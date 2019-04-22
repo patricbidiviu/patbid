@@ -1,16 +1,15 @@
-Pasul 1. Cloneaza local repo-ul andreiternauciuc/psea1 de pe GitHub, branch-ul master (ai facut-o deja daca vezi acest mesaj).
+Pasul 1. Cloneaza local repo-ul andreiternauciuc/PSeA2 de pe GitHub, branch-ul master (ai facut-o deja daca vezi acest mesaj).
 
-Pasul 2. Creaza un branch nou folosind primele litere de la prenumele tau, urmate de primele trei litere de la numele tau de familie (de ex: pentru Ion Popescu => ionpop)
+Pasul 2. Creaza un repo in contul tau de Github si cloneaza-l si pe el local (gol). Copiaza fisierul cu instructiuni in folderul local al noului repo.
 
-Pasul 3. Modifica fisierul Raspuns.txt cu urmatorul text:
-	a. Mergi la https://www.base64encode.net/ 
-	b. Codeaza textul: PSeA1-IonPopescu (cu primul tau prenume, urmat de primul tau nume, capitalizate). Foloseste setarile implicite.
-	c. Treci in fisierul Raspuns.txt urmatorul continut:
-		Ion Popescu | PSeA1-IonPopescu => UFNlQTEtSW9uUG9wZXNjdQ==
+Pasul 3. Genereaza o imagine reprezentand un cod QR si incarca-l in noul repo, urmand pasii urmatori:
+	a. Mergi la https://www.qrstuff.com/
+	b. Alege plain text si codeaza textul: PSeA2-IonPopescu (cu primul tau prenume, urmat de primul tau nume, capitalizate). Foloseste setarile implicite.
+	c. Descarca imaginea generata si copiaz-o langa acest fisier, dandu-i un nume sugestiv (ex: IonPopescu.png)
 		
-Pasul 4. Salveaza modificarile la noul branch (commit) si incarca-l pe GitHub (Push).
+Pasul 4. Salveaza modificarile la noul repo (commit) si incarca-l pe GitHub (Push).
 
-Pasul 5. Posteaza linkul public catre acest branch la: https://cv.upt.ro/mod/assign/view.php?id=47659. (Ex: https://github.com/andreiternauciuc/psea1/tree/ionpop)
+Pasul 5. Posteaza linkul public catre acest branch la: https://cv.upt.ro/mod/assign/view.php?id=47659. (Ex: https://github.com/andreiternauciuc/PSeA2/tree/ionpop)
 
 Pasul 6 (Optional). Daca intampini probleme la vreunul din pasii anteriori, creeaza un tutorial text+imagini cu operatiunile efectuate, cu explicatii si marcarea erorilor:
 	a. Daca ai lucrat in linie de comanda (GitBash), poti trece numai comenzile text rulate, impreuna cu mesajele de eroare primite
